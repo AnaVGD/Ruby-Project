@@ -1,0 +1,94 @@
+Poniendo a punto el gestor de interpretes de Ruby
+<<<<<<< HEAD
+* commit d7c1dc0 (HEAD -> doc, ghp03/master, master)
+| Author: AnaVGD <alu0101322650@ull.edu.es>
+| Date:   3 minutes ago
+
+* commit 74100aa (master)
+| Author: AnaVGD <alu0101322650@ull.edu.es>
+| Date:   54 seconds ago
+| 
+|     Creando Hola mundo en Ruby
+| 
+* commit d7c1dc0 (HEAD -> doc, ghp03/master)
+| Author: AnaVGD <alu0101322650@ull.edu.es>
+| Date:   9 minutes ago
+>>>>>>> Grafo con Hello World en Ruby a~nadido
+| 
+|     Creado el fichero de respuestas
+| 
+* commit 80c9a50
+| Author: AnaVGD <alu0101322650@ull.edu.es>
+
+
+<<<<<<< HEAD
+| Date:   4 minutes ago
+=======
+| Date:   10 minutes ago
+>>>>>>> Grafo con Hello World en Ruby a~nadido
+| 
+|     Creando el fichero README.md
+| 
+* commit 852cfde
+  Author: AnaVGD <alu0101322650@ull.edu.es>
+<<<<<<< HEAD
+  Date:   6 minutes ago
+  
+      Creando el fichero .gitignore
+
+Hay actualemente 3 ramas
+
+-master  Local
+-doc     Local
+-graph   Remoto
+=======
+  Date:   12 minutes ago
+  
+      Creando el fichero .gitignore
+
+El HEAD se encuentra actualmente en la rama doc.
+
+
+>>>>>>> Grafo con Hello World en Ruby a~nadido
+* commit a6d10ed (HEAD -> master, doc)
+| Author: AnaVGD <alu0101322650@ull.edu.es>
+| Date:   18 minutes ago
+| 
+|     Grafo con Hello World en Ruby a~nadido
+| 
+* commit 74100aa
+| Author: AnaVGD <alu0101322650@ull.edu.es>
+| Date:   23 minutes ago
+| 
+|     Creando Hola mundo en Ruby
+| 
+* commit d7c1dc0 (ghp03/master)
+| Author: AnaVGD <alu0101322650@ull.edu.es>
+| Date:   31 minutes ago
+| 
+|     Creado el fichero de respuestas
+| 
+* commit 80c9a50
+| Author: AnaVGD <alu0101322650@ull.edu.es>
+| Date:   32 minutes ago
+| 
+|     Creando el fichero README.md
+| 
+* commit 852cfde
+  Author: AnaVGD <alu0101322650@ull.edu.es>
+  Date:   34 minutes ago
+  
+      Creando el fichero .gitignore
+
+La rama doc se encuentra junto con master en HEAD, en el ultimo commit
+
+Estoy usuando la version ruby 2.7.2p137
+
+
+RVM es una plataforma de software diseñada para administrar múltiples instalaciones de Ruby en el mismo dispositivo.
+
+El resultado de la operacion es NIL
+
+La diverencia es que al ejecutar con ruby me sale por pantalla el hola mundo con irb me indica que esta vacio por eso aparaece el nil.
+
+Las diferencias que observo aparte de la estetica es que al ejecutar el progama como creo una funcion :hello para poder imprimer por mensaje el "Hola Mundo" tengo que llamar a la funcion, de igual forma que con el byebye.
