@@ -1,0 +1,13 @@
+task :default => :ut
+
+
+desc "Pruebas unitarias de la clase ExpRegulares"
+task :ut do
+  sh "ruby -I. test/tc_ExpRegulares.rb" # se lanza con el interprete de ruby el test
+end
+
+desc "Ejecutar solo las pruebas simples"
+task :simple do
+  sh "ruby -I. test/tc_ExpRegulares.rb --name /simple/"
+end
+
